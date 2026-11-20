@@ -1,4 +1,4 @@
-package com.example.pertemuan8.uicontroller
+package com.example.pertemuan8.view.route
 
 interface DestinasiNavigasi {
     /**
