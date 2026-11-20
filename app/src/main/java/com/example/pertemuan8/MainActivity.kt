@@ -10,7 +10,7 @@ import androidx.compose.material3.Surface
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import com.example.pertemuan8.ui.theme.Pertemuan8Theme
-import com.example.pertemuan8.uicontroller.SiswaApp
+import com.example.pertemuan8.view.uicontroller.SiswaApp
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
